@@ -1,0 +1,7 @@
+*.exe
+*.log
+*.local.json
+dist/
+release/
+logs/
+approval-watcher-state.json

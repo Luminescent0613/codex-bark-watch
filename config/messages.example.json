@@ -1,0 +1,6 @@
+{
+  "doneTitle": "Codex turn complete",
+  "doneMessage": "Codex has finished the current turn.",
+  "approvalTitle": "Codex approval needed",
+  "approvalMessage": "Codex is waiting for permission approval."
+}

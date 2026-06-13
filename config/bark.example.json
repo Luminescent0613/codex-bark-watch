@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://www.ggsuper.com.cn/push/api/v1/sendMsg3_New.php",
+  "token": "replace-with-your-token",
+  "method": "POST",
+  "url": "",
+  "issecure": 0,
+  "sender": "Codex"
+}
